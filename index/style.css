@@ -1,0 +1,188 @@
+.body {
+   background-image: url(body.png);
+    
+    
+}
+.start{
+    background-image: url(./Rectangle\ 1.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    border-image-width: 100%;
+    /* border-radius: 50px; */
+}
+.space{
+    width: 30%;
+}
+.font
+{
+    height: 75px;
+    font-size: 35px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 150px;
+}       
+.img{
+    height: 150px;
+    width: 250px;
+    margin-left: 140px;
+
+} 
+.section1{
+    width: 80%;
+    height: 150px;
+    /* background-color: #e0e0e0; */
+    margin-left: 300px;
+    /* line-height: 200px; */
+    
+}
+.heading{
+    font-size: 50px;
+    /* margin-left: 100px; */
+}
+.text{
+    font-size: 35px;
+}
+
+.About{
+    margin-top: -30px;
+    background-image: url(./Rectangle\ 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    border-image-width: 70%;
+    /* box-shadow: 1px 2px 5px 3px; */
+    text-align: center;
+    /* border-radius: 50px; */
+    /* margin-left: 130px; */
+}
+.AboutUs{
+    text-align: center;
+    font-size: 45px;
+}
+.abouttext{
+    font-size: 35px;
+    text-align: center;
+}
+.read{
+    background-color: #3498db;
+    color: white;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 30px;
+}
+.services{
+    
+    background-image: url(./Rectangle\ 4.jpg);
+    background-repeat: no-repeat;
+    border-image-width: 70%;
+    background-position: center top;
+    /* box-shadow: 1px 2px 5px 3px; */
+    text-align: center;
+}
+.ourserv{
+    
+    text-align: center;
+    font-size: 45px;
+    
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    align-items: space-between;
+    margin-left: 180px;
+}
+.card-img-top{
+    opacity: 90%;
+}
+.Read{
+    background-color: #3498db;
+    color: white;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 30px;
+    /* height: 100px; */
+    /* margin-left: 50px; */
+    margin-top: 56px;
+    width: 200px;
+}
+.cards{
+    width: 68%;
+    /* height: 30px; */
+}
+.card-img-top
+{
+    opacity: 80%;
+}
+.test{
+    width: 40%;
+}
+.contact{
+    background-image: url(./Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    border-image-width: 70%;
+    background-position: center top;
+    /* box-shadow: 1px 2px 5px 3px; */
+    text-align: center;
+    /* border-radius: 50px; */
+    /* margin-left: 130px; */
+    margin-top: 20px;
+}
+.headings{
+    font-size: 50px;
+    margin-left: 100px;
+}
+.contacttext{
+    text-align: left;
+    margin-left: 170px;
+    /* align-items: space-around; */
+    /* text-align: justify; */
+    /* text-align: end; */
+}
+.Socialtext{
+    text-align: left;
+    margin-left: 130px;
+    font-size: 30px ;
+    color: black;
+}
+.Flags{
+    background-image: url(./Rectangle\ 4.jpg);
+    background-repeat: no-repeat;
+    border-image-width: 100%;
+    background-position: center top;
+    text-align: center;
+    
+    
+}
+.row1{
+    display: flex;
+    flex-direction: row;
+}
+.card1{
+    position: relative;
+    left:230px;
+    top: 50px;
+
+}
+.card2{
+    position: relative;
+    left:90px;
+    top: 40px;
+
+}
+a{
+    text-decoration: none !important;
+    color: grey;
+}
+#a1{
+    color: black;
+}
+a:active{
+    color: white;
+}
+.year{
+    text-align: center;
+    color: white;
+}

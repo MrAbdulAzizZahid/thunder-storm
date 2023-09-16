@@ -1,0 +1,79 @@
+.body
+{
+    background-image: url(body.png);
+}
+.font
+{
+    height: 75px;
+    font-size: 35px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 150px;
+    color: darkgray;
+}       
+.img{
+    height: 150px;
+    width: 250px;
+    margin-left: 140px;
+
+} 
+.heading{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.images{
+    display: flex;
+    flex-direction: row;
+}
+.card{
+    position: relative;
+    left: 190px;
+  
+}
+.card1{
+    position: relative;
+
+    left: 590px;
+    /* bottom: 50px; */
+}
+.card-img-top{
+    
+    height: 300px !important;
+    width: 300px !important;
+}
+.card-text{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    margin: 0px !important;
+}
+
+.row1{
+    display: flex;
+    flex-direction: row;
+}
+.card1{
+    position: relative;
+    left:150px;
+    top: 50px;
+
+}
+.card2{
+    position: relative;
+    left:90px;
+    top: 40px;
+
+}
+.text{
+    text-align: center;
+    color: darkgrey;
+}
+a{
+    text-decoration: none !important;
+    color: grey;
+}
+.year{
+    text-align: center;
+    color: white;
+}

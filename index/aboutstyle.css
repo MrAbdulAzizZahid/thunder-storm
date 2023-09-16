@@ -1,0 +1,76 @@
+.body
+{
+    background-image: url(body.png);
+}
+.img{
+    height: 150px;
+    width: 250px;
+    margin-left: 140px;
+
+} 
+.font
+{
+    height: 75px;
+    font-size: 35px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 150px;
+    color: darkgray;
+} 
+.heading{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.text{
+    text-align: left;
+    margin-left: 300px;
+}
+.rounded-image {
+    display: flex;
+            justify-content: center;
+            align-items: center;
+    border-radius: 50%; /* You can adjust the percentage to change the border radius */
+    width: 200px; /* Set your desired width */
+    height: 200px; /* Set your desired height */
+    overflow: hidden;
+    
+}
+.rounded-image img {
+    
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+.pics{
+  width: 50% !important;
+    position: relative;
+    left: 270px;
+    color: white;
+    
+}
+.pic1{
+    width: 30% !important;
+    position: relative;
+    left: 1070px;
+    bottom: 390px;
+    color: white;
+}
+.names{
+    font-size: 40px;
+    color: white;
+}
+.tag{
+    
+    font-size: 30px;
+    color: grey !important;
+}
+.year{
+    text-align: center;
+    color: white;
+}
+a{
+    text-decoration: none !important;
+    color: grey;
+}
